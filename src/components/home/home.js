@@ -4,7 +4,6 @@ import logo1 from '../../assets/images/logo1.png'
 import '../layout/layout.css'
 import './home.css'
 import AnimatedLetters from '../AnimatedLetters/AnimatedLetters'
-import Loader from 'react-loaders'
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')

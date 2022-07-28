@@ -1,7 +1,6 @@
 import React from 'react'
 import './sidebar.css'
 import LogoS from '../../assets/images/logo1.png'
-import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { Link, NavLink } from 'react-router-dom'
 import { IconContext } from 'react-icons'
 import {
@@ -10,7 +9,6 @@ import {
     GrMailOption,
     GrLinkedinOption,
     GrGithub,
-    GrMail,
     GrProjects,
     GrInstagram,
 } from 'react-icons/gr'
