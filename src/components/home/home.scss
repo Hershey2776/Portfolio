@@ -1,5 +1,4 @@
-$primary-color : #F27405;
-
+$primary-color: #f27405;
 
 .home-page {
     .text-zone {
@@ -43,16 +42,19 @@ $primary-color : #F27405;
         }
 
         img {
-            width: 90px;
+            margin: 0;
+            padding: 0;
+            position: relative;
+            width: 50px;
+            margin-right: 6px;
             margin-left: 20px;
-            opacity: 0;
+            opacity: 1;
             height: auto;
-            animation: rotateIn 1s linear both;
+            animation: rotateIn 1.55s linear both;
         }
-
     }
 
-    h2{
+    h2 {
         color: #8d8d8d;
         margin-top: 20px;
         font-weight: 300;
@@ -62,7 +64,7 @@ $primary-color : #F27405;
         letter-spacing: 3px;
         animation: fadeIn 1s 1.8s backwards;
     }
-    .flat-button{
+    .flat-button {
         color: $primary-color;
         font-size: 13px;
         font-weight: 400;
@@ -76,29 +78,24 @@ $primary-color : #F27405;
         float: left;
         animation: fadeIn 1s 1.8s backwards;
         white-space: nowrap;
-        
-        &:hover{
+
+        &:hover {
             background: $primary-color;
             color: #333;
         }
-        
     }
-    .CV{
+    .CV {
         margin-left: 4px;
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
+.h_main {
+    margin-left: 880px;
+    margin-top: 50px;
+    width: 400px;
+    // height: 10px;
+    transform: rotateZ(-7deg) !important;
+}
 
 // .home-page {
 //     .text-zone {
@@ -109,7 +106,6 @@ $primary-color : #F27405;
 //       width: 40%;
 //       max-height: 90%;
 //     }
-  
 
 //       &:before {
 //         content: '<h1>';
@@ -121,7 +117,7 @@ $primary-color : #F27405;
 //         left: -15px;
 //         opacity: 0.6;
 //       }
-  
+
 //       &:after {
 //         content: '<h1/>';
 //         font-family: 'La Belle Aurore', cursive;
@@ -133,7 +129,7 @@ $primary-color : #F27405;
 //         animation: fadeIn 1s 1.7s backwards;
 //         opacity: 0.6;
 //       }
-  
+
 //       img {
 //         margin-left: 20px;
 //         opacity: 0;
@@ -143,9 +139,7 @@ $primary-color : #F27405;
 //         animation-delay: 1.4s;
 //       }
 //     }
-  
 
-  
 //     .flat-button {
 //       color: #ffd700;
 //       font-size: 13px;
@@ -159,7 +153,7 @@ $primary-color : #F27405;
 //       float: left;
 //       animation: fadeInAnimation 1s 1.8s backwards;
 //       white-space: nowrap;
-  
+
 //       &:hover {
 //         background: #ffd700;
 //         color: #333;

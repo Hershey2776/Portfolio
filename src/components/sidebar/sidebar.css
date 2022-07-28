@@ -14,7 +14,7 @@
 .nav-bar .logo img {
   display: block;
   margin: 8px auto;
-  width: 24px;
+  width: 34px;
   height: auto;
 }
 .nav-bar .logo img.sub-logo {
@@ -42,7 +42,7 @@ nav a i {
   transition: all 0.3s ease-out;
 }
 nav a:hover {
-  color: #F27405;
+  color: #f27405;
 }
 nav a:hover svg {
   opacity: 0;
@@ -65,14 +65,26 @@ nav a::after {
 nav a.home-link::after {
   content: "Home";
 }
+nav a.projects-link::after {
+  content: "Projects";
+}
 nav a.about-link::after {
   content: "About";
 }
 nav a.contact-link::after {
   content: "Contact";
 }
+nav a.linkedin::after {
+  content: "Linkedin";
+}
+nav a.GitHub::after {
+  content: "GitHub";
+}
+nav a.Instagram::after {
+  content: "Insta";
+}
 nav a.active .react-icons {
-  color: #F27405;
+  color: #f27405;
 }
 nav ul {
   position: relative;
@@ -82,7 +94,7 @@ nav ul {
   padding: 0;
   list-style: none;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 140px;
 }
 nav ul li a {
   padding: 7px 0;
@@ -91,5 +103,5 @@ nav ul li a {
   line-height: 16px;
 }
 nav ul li a:hover svg {
-  color: #F27405;
+  color: #f27405;
 }/*# sourceMappingURL=sidebar.css.map */

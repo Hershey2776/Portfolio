@@ -17,7 +17,7 @@
 .home-page h1::before {
   content: "<h1>";
   font-family: "La";
-  color: #F27405;
+  color: #f27405;
   font-size: 18px;
   position: absolute;
   margin-top: -40px;
@@ -29,7 +29,7 @@
 .home-page h1::after {
   content: "<h1/>";
   font-family: "La";
-  color: #F27405;
+  color: #f27405;
   font-size: 18px;
   position: absolute;
   margin-top: 20px;
@@ -39,12 +39,16 @@
   opacity: 0.8;
 }
 .home-page h1 img {
-  width: 90px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 50px;
+  margin-right: 6px;
   margin-left: 20px;
-  opacity: 0;
+  opacity: 1;
   height: auto;
-  -webkit-animation: rotateIn 1s linear both;
-          animation: rotateIn 1s linear both;
+  -webkit-animation: rotateIn 1.55s linear both;
+          animation: rotateIn 1.55s linear both;
 }
 .home-page h2 {
   color: #8d8d8d;
@@ -58,14 +62,14 @@
           animation: fadeIn 1s 1.8s backwards;
 }
 .home-page .flat-button {
-  color: #F27405;
+  color: #f27405;
   font-size: 13px;
   font-weight: 400;
   letter-spacing: 4px;
   font-family: sans-serif;
   text-decoration: none;
   padding: 10px 18px;
-  border: 1px solid #F27405;
+  border: 1px solid #f27405;
   border-radius: 10px;
   margin-top: 25px;
   float: left;
@@ -74,9 +78,16 @@
   white-space: nowrap;
 }
 .home-page .flat-button:hover {
-  background: #F27405;
+  background: #f27405;
   color: #333;
 }
 .home-page .CV {
   margin-left: 4px;
+}
+
+.h_main {
+  margin-left: 880px;
+  margin-top: 50px;
+  width: 400px;
+  transform: rotateZ(-7deg) !important;
 }/*# sourceMappingURL=home.css.map */
