@@ -21,7 +21,7 @@
 .text-animate-hover:hover {
   -webkit-animation: rubberBand 1s;
           animation: rubberBand 1s;
-  color: #F27405;
+  color: #f27405;
 }
 
 .text-animate._1 {

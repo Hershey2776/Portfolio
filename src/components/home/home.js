@@ -62,9 +62,12 @@ const Home = () => {
                         {' '}
                         Contact Me{' '}
                     </Link>
-                    <Link to="/" className="flat-button CV">
+                    <a
+                        href={require('../../assets/CV.docx')}
+                        className="flat-button CV"
+                    >
                         Resume
-                    </Link>
+                    </a>
                 </div>
                 <img className="h_main" src={logo1} alt="developer"></img>
             </div>

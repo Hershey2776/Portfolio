@@ -115,8 +115,4 @@
 .contact-page .text-zone p:nth-of-type(3) {
   -webkit-animation-delay: 1.3s;
           animation-delay: 1.3s;
-}
-.about-page .text-zone .text-animate-hover:hover,
-.contact-page .text-zone .text-animate-hover:hover {
-  color: #fff;
 }/*# sourceMappingURL=layout.css.map */
