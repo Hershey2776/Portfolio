@@ -50,9 +50,10 @@ $primary-color: #f27405;
             margin: 0;
             padding: 0;
             position: relative;
-            width: 70px;
-            margin-right: -10px;
+            width: 50px;
+            margin-right: -2px;
             margin-left: 20px;
+            top: 5px;
             opacity: 1;
             height: auto;
             animation: rotateIn 1.55s linear both;
@@ -95,10 +96,10 @@ $primary-color: #f27405;
 }
 
 .h_main {
-    margin-left: 700px;
-    margin-top: 50px;
-    width: 600px;
+    margin-left: 750px;
+    margin-top: 13px;
+    width: 500px;
     // height: 10px;
-    transform: rotateZ(6deg) !important;
+    transform: rotateZ(10deg) !important;
 }
 
