@@ -14,11 +14,11 @@
 .nav-bar .logo img {
   display: block;
   margin: 8px auto;
-  width: 34px;
+  width: 52px;
   height: auto;
 }
 .nav-bar .logo img.sub-logo {
-  width: 50px;
+  width: 60px;
 }
 
 .react-icons path {

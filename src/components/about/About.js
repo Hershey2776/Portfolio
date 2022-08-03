@@ -33,16 +33,14 @@ const About = () => {
                         ></AnimatedLetters>
                     </h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit. <br /> Sunt magni corrupti ipsa nostrum maiores.
-                        Soluta vero fugit magni possimus atque! <br /> Cum quasi
-                        similique suscipit alias.
+                        Howdy, I am Hershey a sysadmin on someone else's system
+                        and a full stack developer. Sometimes I like to code
+                        sometimes I like to watch MotoGP or Boxing or Football
+                        or play CS:GO
                     </p>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. <br /> Aperiam nisi necessitatibus saepe
-                        repellendus adipisci quae! <br /> Totam dicta aliquam et
-                        sit.
+                        If I need to define myself in one line that would be a
+                        "quick learner who is very curious to learn :)".
                     </p>
                     <p>
                         Lorem ipsum dolor sit amet consectetur, adipisicing

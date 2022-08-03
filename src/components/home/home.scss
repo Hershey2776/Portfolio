@@ -50,8 +50,8 @@ $primary-color: #f27405;
             margin: 0;
             padding: 0;
             position: relative;
-            width: 50px;
-            margin-right: 6px;
+            width: 70px;
+            margin-right: -10px;
             margin-left: 20px;
             opacity: 1;
             height: auto;
@@ -95,10 +95,10 @@ $primary-color: #f27405;
 }
 
 .h_main {
-    margin-left: 880px;
+    margin-left: 700px;
     margin-top: 50px;
-    width: 400px;
+    width: 600px;
     // height: 10px;
-    transform: rotateZ(-7deg) !important;
+    transform: rotateZ(6deg) !important;
 }
 

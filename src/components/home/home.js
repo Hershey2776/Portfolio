@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import logo1 from '../../assets/images/logo1.png'
 import '../layout/layout.css'
 import './home.css'
 import AnimatedLetters from '../AnimatedLetters/AnimatedLetters'
@@ -42,7 +41,7 @@ const Home = () => {
                         <span className={`${letterClass} _14`}>m</span>
                         <img
                             className="h_image"
-                            src={logo1}
+                            src="https://raw.githubusercontent.com/Hershey2776/Portfolio/main/src/assets/images/H.svg"
                             alt="developer"
                         ></img>
                         <AnimatedLetters
@@ -69,7 +68,11 @@ const Home = () => {
                         Resume
                     </a>
                 </div>
-                <img className="h_main" src={logo1} alt="developer"></img>
+                <img
+                    className="h_main"
+                    src="https://raw.githubusercontent.com/Hershey2776/Portfolio/main/src/assets/images/H.svg"
+                    alt="developer"
+                ></img>
             </div>
         </>
     )

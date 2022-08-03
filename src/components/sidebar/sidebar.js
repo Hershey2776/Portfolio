@@ -1,6 +1,5 @@
 import React from 'react'
 import './sidebar.css'
-import LogoS from '../../assets/images/logo1.png'
 import { Link, NavLink } from 'react-router-dom'
 import { IconContext } from 'react-icons'
 import {
@@ -17,7 +16,15 @@ const Sidebar = () => {
     return (
         <div className="nav-bar">
             <Link className="logo" to="/">
-                <img src={LogoS} alt="logo" />
+                <img
+                    src="https://raw.githubusercontent.com/Hershey2776/Portfolio/main/src/assets/images/H.svg"
+                    alt="logo"
+                />
+                <img
+                    className="sub-logo"
+                    src="https://raw.githubusercontent.com/Hershey2776/Portfolio/main/src/assets/images/hershey.svg"
+                    alt="slobodan"
+                />
             </Link>
             <nav>
                 <NavLink
