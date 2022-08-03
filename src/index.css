@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:wght@400&display=swap');
+* {
+    font-family: "Genos";
+}
+
+
 html{
-    font-size: 62.5%;
+    font-size: 67.5%;
 }
 /* 022c43 */
 body{
     margin:0;
-    font: 300 11px/1.4 'Helventica Neue', 'sans-serif';
+    font: 300 11px/1.4 'Genos', 'sans-serif';
     color: #444;
     background:  	#000C1D;
     overflow: hidden;

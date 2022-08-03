@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters/AnimatedLetters'
+import Skills from '../Skills/Skills'
 
 const About = () => {
     const [letterC, sLetterC] = useState('text-animate')
@@ -11,18 +12,7 @@ const About = () => {
     }, [])
     return (
         <>
-            <div className="Skills">
-                <section class="skills-section my-skills" id="skills">
-                    <h1 class="text-skills" data-aos="slide-up">
-                        Skills
-                    </h1>
-                    <img
-                        src="https://raw.githubusercontent.com/Sacsam005/my_portfolio_website/0fc1dccb57e4a40e1751d695fbd5b8048fae6471/img/skills.svg"
-                        alt="Skills"
-                        data-aos="zoom-out"
-                    />
-                </section>
-            </div>
+            <Skills></Skills>
             <div className="container about-page">
                 <div className="text-zone">
                     <h1>
