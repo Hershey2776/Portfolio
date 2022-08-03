@@ -26,6 +26,10 @@ $primary-color: #f27405;
     }
 }
 
+.react-icons path{
+    stroke: rgb(167, 167, 167);
+}
+
 nav {
     display: block;
     text-align: center;
@@ -34,10 +38,9 @@ nav {
     top: 50%;
     margin-top: -120px;
     width: 100%;
-
     a {
         font-size: 22px;
-        color: #4d4d4e;
+        color: #6b6b6b;
         display: block;
         line-height: 51px;
         position: relative;
@@ -106,8 +109,8 @@ nav {
         }
     }
     a.active {
-        .react-icons {
-            color: $primary-color;
+        .react-icons path {
+            stroke: $primary-color;
         }
     }
     ul {
@@ -134,3 +137,4 @@ nav {
         }
     }
 }
+

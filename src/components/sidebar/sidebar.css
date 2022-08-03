@@ -21,6 +21,10 @@
   width: 50px;
 }
 
+.react-icons path {
+  stroke: rgb(167, 167, 167);
+}
+
 nav {
   display: block;
   text-align: center;
@@ -32,7 +36,7 @@ nav {
 }
 nav a {
   font-size: 22px;
-  color: #4d4d4e;
+  color: #6b6b6b;
   display: block;
   line-height: 51px;
   position: relative;
@@ -83,8 +87,8 @@ nav a.GitHub::after {
 nav a.Instagram::after {
   content: "Insta";
 }
-nav a.active .react-icons {
-  color: #f27405;
+nav a.active .react-icons path {
+  stroke: #f27405;
 }
 nav ul {
   position: relative;

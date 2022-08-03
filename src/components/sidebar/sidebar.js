@@ -23,10 +23,12 @@ const Sidebar = () => {
                 <NavLink
                     exact="true"
                     activeclassname="active"
-                    className="home-link"
+                    className=" home-link"
                     to="/"
                 >
-                    <IconContext.Provider value={{ className: 'react-icons' }}>
+                    <IconContext.Provider
+                        value={{ className: 'icon react-icons' }}
+                    >
                         <GrHomeRounded />
                     </IconContext.Provider>
                 </NavLink>

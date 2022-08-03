@@ -1,3 +1,6 @@
+.home-page .text-animate-hover:hover {
+  color: #f27405;
+}
 .home-page .text-zone {
   position: absolute;
   left: 10%;
