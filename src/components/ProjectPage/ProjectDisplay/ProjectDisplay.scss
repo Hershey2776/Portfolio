@@ -6,6 +6,17 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+
+    span{
+        position: relative;
+        color: #fff;
+        font-size:13px;
+        margin:auto;
+    }
+    a{
+        position: absolute;
+        margin-left:5px;
+    }
 }
 
 .project h1 {
@@ -21,6 +32,7 @@
 .project p {
     font-size: 20px;
     color: #fff;
+    margin-bottom: 0px;
 }
 
 .project svg {

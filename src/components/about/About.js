@@ -36,16 +36,16 @@ const About = () => {
                         Howdy, I am Hershey a sysadmin on someone else's system
                         and a full stack developer. Sometimes I like to code
                         sometimes I like to watch MotoGP or Boxing or Football
-                        or play CS:GO
+                        or play CS:GO.
                     </p>
                     <p>
                         If I need to define myself in one line that would be a
                         "quick learner who is very curious to learn :)".
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing
-                        elit. <br /> Quae, praesentium! Illo nobis deleniti
-                        voluptatibus nemo?
+                        Talking about my skills, I am MERN developer but I am a
+                        wizard in python:). Currently I am persuing OSCP and
+                        CCNA.
                     </p>
                 </div>
             </div>

@@ -7,6 +7,16 @@
   align-items: center;
   flex-direction: column;
 }
+.project span {
+  position: relative;
+  color: #fff;
+  font-size: 13px;
+  margin: auto;
+}
+.project a {
+  position: absolute;
+  margin-left: 5px;
+}
 
 .project h1 {
   margin-top: 50px;
@@ -22,6 +32,7 @@
 .project p {
   font-size: 20px;
   color: #fff;
+  margin-bottom: 0px;
 }
 
 .project svg {
