@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="155.86426mm"
-   height="170.88133mm"
-   viewBox="0 0 155.86425 170.88134"
+   width="720.73462mm"
+   height="190.218mm"
+   viewBox="0 0 720.7346 190.21801"
    version="1.1"
    id="svg5"
    sodipodi:docname="hershey.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.43556608"
-     inkscape:cx="-258.28457"
-     inkscape:cy="306.49769"
+     inkscape:zoom="0.2210204"
+     inkscape:cx="1187.6732"
+     inkscape:cy="429.82458"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -38,31 +38,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(62.781067,15.881022)">
-    <g
-       id="g8207">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:190.218px;line-height:1.25;font-family:'Lucida Handwriting';-inkscape-font-specification:'Lucida Handwriting, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f27405;fill-opacity:1;stroke-width:0.264583"
-         x="-78.384888"
-         y="141.25409"
-         id="text561-8"><tspan
-           sodipodi:role="line"
-           id="tspan3673-8"
-           x="-78.384888"
-           y="141.25409">H</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:189.795px;line-height:1.25;font-family:'Lucida Handwriting';-inkscape-font-specification:'Lucida Handwriting, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#001938;fill-opacity:1;stroke-width:0.263996"
-         x="-73.220909"
-         y="133.31409"
-         id="text561"
-         transform="scale(0.99973448,1.0002656)"><tspan
-           sodipodi:role="line"
-           id="tspan3673"
-           x="-73.220909"
-           y="133.31409"
-           style="stroke-width:0.263996">H</tspan></text>
-    </g>
+     transform="translate(-23.642988,70.970383)">
+    <text
+       xml:space="preserve"
+       style="font-size:190.218px;line-height:1.25;font-family:'Noto Serif Display';-inkscape-font-specification:'Noto Serif Display, Normal';stroke-width:0.264583"
+       x="27.25713"
+       y="73.595299"
+       id="text8968"><tspan
+         sodipodi:role="line"
+         id="tspan8966"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:190.218px;font-family:'Noto Serif Display';-inkscape-font-specification:'Noto Serif Display, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="27.25713"
+         y="73.595299">Hershey</tspan></text>
   </g>
 </svg>
