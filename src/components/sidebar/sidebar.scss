@@ -20,13 +20,14 @@ $primary-color: #f27405;
             height: auto;
 
             &.sub-logo {
+                margin: 0px 0px 0px 4px;
                 width: 60px;
             }
         }
     }
 }
 
-.react-icons path{
+.react-icons path {
     stroke: rgb(167, 167, 167);
 }
 
@@ -138,4 +139,3 @@ nav {
         }
     }
 }
-
