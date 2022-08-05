@@ -62,7 +62,7 @@ const Home = () => {
                         Contact Me{' '}
                     </Link>
                     <a
-                        href={require('../../assets/res.docx')}
+                        href={require('../../assets/Res.docx')}
                         className="flat-button CV"
                     >
                         Resume

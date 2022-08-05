@@ -104,6 +104,14 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
+            <div className="SnakeGame">
+                <embed
+                    type="text/html"
+                    src="https://smaller-snake-game.vercel.app"
+                    width="420"
+                    height="470"
+                />
+            </div>
             <Loader type="pacman" />
         </>
     )
