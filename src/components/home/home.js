@@ -42,7 +42,7 @@ const Home = () => {
                         <img
                             className="h_image"
                             src="https://raw.githubusercontent.com/Hershey2776/Portfolio/main/src/assets/images/H.svg"
-                            alt="developer"
+                            alt="H"
                         ></img>
                         <AnimatedLetters
                             letterClass={letterClass}
@@ -62,7 +62,7 @@ const Home = () => {
                         Contact Me{' '}
                     </Link>
                     <a
-                        href={require('../../assets/Res.docx')}
+                        href={require('../../assets/mainCV.pdf')}
                         className="flat-button CV"
                     >
                         Resume
